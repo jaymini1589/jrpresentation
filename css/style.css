@@ -1,15 +1,16 @@
-ul {
+.navbar {
   list-style-type: none;
   margin: 0;
   padding: 0;
   width: 60px;
+  font-style: italic;
 }
 
 li a{
   display: block;
 }
 
-body {
+#home {
   background-size: 1400px 600px;
   background-repeat: no-repeat;
 }
