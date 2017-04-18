@@ -4,21 +4,7 @@
   padding: 0;
   width: 60px;
   font-style: italic;
-}
+  padding: 10px;
+  position: fixed;
 
-li a{
-  display: block;
 }
-
-#home {
-  background-size: 1400px 600px;
-  background-repeat: no-repeat;
-}
-
-
-.hobbies{
-    background-image: "cover"
-  
-}
-//div
-<div style="background-color:white;background-attachment:scroll;border:1px solid black;width:300px;height:200px;font-size:18px;line-height:3em;overflow:scroll;">
